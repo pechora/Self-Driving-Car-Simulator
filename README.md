@@ -13,7 +13,6 @@ Or you can manually install the required libraries (see the contents of the envi
 
 ## References
 
-
-https://github.com/llSourcell/How_to_simulate_a_self_driving_car
-https://elitedatascience.com/keras-tutorial-deep-learning-in-python
+https://github.com/llSourcell/How_to_simulate_a_self_driving_car,
+https://elitedatascience.com/keras-tutorial-deep-learning-in-python,
 https://keras.io/
